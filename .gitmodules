@@ -1,3 +1,6 @@
 [submodule "themes\\material-design\\"]
 	path = themes\\material-design\\
 	url = ./themes\\material-design\\
+[submodule "themes\\hyde\\"]
+	path = themes\\hyde\\
+	url = ./themes\\hyde\\
