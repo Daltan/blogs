@@ -1,6 +1,3 @@
-[submodule "site/themes/academic"]
-	path = site/themes/academic
-	url = https://github.com/sourcethemes/academic-kickstart.git
 [submodule "themes\\material-design\\"]
 	path = themes\\material-design\\
 	url = ./themes\\material-design\\
