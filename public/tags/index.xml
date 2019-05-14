@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 何大卫的博客</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on 何大卫的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2016 Copyright 何大卫</copyright>
+    <lastBuildDate>Wed, 12 Dec 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>标签1</title>
+      <link>/tags/%E6%A0%87%E7%AD%BE1/</link>
+      <pubDate>Wed, 12 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E6%A0%87%E7%AD%BE1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>标签2</title>
+      <link>/tags/%E6%A0%87%E7%AD%BE2/</link>
+      <pubDate>Wed, 12 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E6%A0%87%E7%AD%BE2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>标签3</title>
+      <link>/tags/%E6%A0%87%E7%AD%BE3/</link>
+      <pubDate>Wed, 12 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E6%A0%87%E7%AD%BE3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

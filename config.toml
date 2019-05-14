@@ -21,4 +21,4 @@ copyright = "© 2016 Copyright 何大卫"
   # googleAnalyticsUserID = "Your Analytics User Id" # optional
 
 [permalinks]
-  # post = "/:year/:month/:day/:title/" # optional
+  post = "/:year/:month/:day/:title/" # optional
