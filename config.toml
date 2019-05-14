@@ -1,5 +1,5 @@
 theme="material-design"
-baseURL = "/"
+baseURL = "https://www.hedawei.com.cn/"
 languageCode = "en-us"
 title = "何大卫的博客"
 MetaDataFormat = "toml"
